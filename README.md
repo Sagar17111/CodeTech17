@@ -1,1 +1,2 @@
 # CodeTech17
+The GitHub Profile Explorer with Single-Click Repository Cloning is a MERN stack web app that enhances GitHub interactions by allowing users to explore profiles, like favorite accounts, view popular repositories, and instantly clone repos with one click. This tool streamlines GitHub exploration and provides a personalized experience, making it ideal for developers and recruiters who frequently browse GitHub profiles and projects.
